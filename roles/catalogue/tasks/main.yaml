@@ -7,4 +7,9 @@
   ansible.builtin.import_role:
     name: common
     tasks_from: nodejs.yaml
-    
+
+- name: mongodb setup
+  ansible.builtin.import_role:
+    name: common
+    tasks_from: mongodb setup
+        
