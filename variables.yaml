@@ -1,1 +1,2 @@
 MONGODB_HOST: mongod.76sdaws.tech
+REDIS_HOST: redis.76sdaws.tech
