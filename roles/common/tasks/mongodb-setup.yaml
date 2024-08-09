@@ -8,7 +8,7 @@
     name: mongodb-org-shell
     state: present
 
-- name: "get the catalogue entries count"
+- name: get the catalogue entries count
   ansible.builtin.shell:  mongo --host {{MONGODB_HOST}} --quiet --eval 'db = db.getSiblingDB("catalogue"); db.products.count()'
   register: products_count
   when: component == "catalogue"
