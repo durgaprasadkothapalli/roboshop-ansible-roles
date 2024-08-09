@@ -2,4 +2,8 @@ MONGODB_HOST: mongod.76sdaws.tech
 REDIS_HOST: redis.76sdaws.tech
 CATALOGUE_HOST: catalogue.76sdaws.tech
 USER_HOST: user.76sdaws.tech
+SHIPPING_HOST: cart.76sdaws.tech
+pAYMENT_HOST: payment.76sdaws.tech
 CART_HOST: cart.76sdaws.tech
+DISPATCH_HOST: dispatch.76sdaws.tech
+RABBITMQ_HOST: rabbitmq.76sdaws.tech
