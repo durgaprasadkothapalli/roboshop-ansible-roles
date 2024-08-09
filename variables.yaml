@@ -2,4 +2,4 @@ MONGODB_HOST: mongod.76sdaws.tech
 REDIS_HOST: redis.76sdaws.tech
 CATALOGUE_HOST: catalogue.76sdaws.tech
 USER_HOST: user.76sdaws.tech
-
+CART_HOST: cart.76sdaws.tech
