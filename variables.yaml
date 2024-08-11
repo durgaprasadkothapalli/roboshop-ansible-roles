@@ -7,3 +7,4 @@ PAYMENT_HOST: payment.76sdaws.tech
 CART_HOST: cart.76sdaws.tech
 DISPATCH_HOST: dispatch.76sdaws.tech
 RABBITMQ_HOST: rabbitmq.76sdaws.tech
+MYSQL_HOST: mysql_host.76sdaws.tech
