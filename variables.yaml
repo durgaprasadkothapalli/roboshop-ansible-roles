@@ -1,5 +1,5 @@
 MONGODB_HOST: mongodb.76sdaws.tech
-REDDIS_HOST: reddis.76sdaws.tech
+REDIS_HOST: redis.76sdaws.tech
 CATALOGUE_HOST: catalogue.76sdaws.tech
 USER_HOST: user.76sdaws.tech
 SHIPPING_HOST: shipping.76sdaws.tech
